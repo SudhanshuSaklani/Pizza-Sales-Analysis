@@ -88,7 +88,7 @@ Top 5 / Bottom 5 Products
 ![image alt](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/60493b68590a0f2137ece2fbebde5d5c4f611a23/Screenshot/three.png)
 
 Order Distribution by Time
-![image alt]()
+![image alt](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/0cf0b0c8ffc6d5a66da7ac932b4bccde8ac72d3b/Screenshot/one.png)
 
 ## **📂 Project Structure**
 ![image](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/306c88e0842ed6fb24a6431123c9ef4044db3b97/Screenshot/Screenshot%202026-03-02%20235127.png)
@@ -117,5 +117,6 @@ SQL-based business problem solving
 Dashboard development for decision making
 
 Real-world data analytics workflow
+
 
 
