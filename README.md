@@ -126,7 +126,8 @@ Real-world data analytics workflow
 ![image alt](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/0cf0b0c8ffc6d5a66da7ac932b4bccde8ac72d3b/Screenshot/one.png)
 ![image alt](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/6a18e370394cff4d5c2030f77f077ca75a771a50/Screenshot/two.png)
 ![image alt](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/60493b68590a0f2137ece2fbebde5d5c4f611a23/Screenshot/three.png)
-![image alt]()
+![image alt](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/885c74889b2320df04c43d38b0eacdc820d9f6b6/Screenshot/four.png)
+
 
 
 
