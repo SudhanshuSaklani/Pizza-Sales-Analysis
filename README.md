@@ -91,7 +91,7 @@ Order Distribution by Time
 ![image alt]()
 
 ## **📂 Project Structure**
-![image]()
+![image](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/306c88e0842ed6fb24a6431123c9ef4044db3b97/Screenshot/Screenshot%202026-03-02%20235127.png)
 
 ## **🚀 How To Run This Project**
 
@@ -117,3 +117,4 @@ SQL-based business problem solving
 Dashboard development for decision making
 
 Real-world data analytics workflow
+
