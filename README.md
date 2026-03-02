@@ -1,5 +1,5 @@
 # **🍕 Pizza Sales Analysis (PostgreSQL + Python + Power BI)**
-## **📖 Project Overview**
+## **Project Overview**
 
 This project analyzes pizza sales data to uncover business insights related to revenue, customer behavior, and product performance.
 
@@ -17,7 +17,34 @@ Business KPI creation
 
 Interactive dashboard reporting
 
-## **🛠️ Tech Stack**
+## **Key Questions Explored using pgSQL**
+1. **Total Revenue**: Total Revenue generated over the period.
+
+2. **Average Order Value**: Average order value throughout the year.
+
+3. **Total Pizza Sold**: Total number of Pizzas sold.
+
+4. **Total Orders**: Total Orders placed.
+
+5. **Average Pizzas Per Order**: Average Pizzas ordered per order.
+
+6. **Daily Trend for Total Orders**: By days of the week, trend for sales throughout the year.
+
+7. **Monthly Trend for Total Orders**: Monthly Trend for Total Orders to analuze seasonality.
+
+8. **% of Sales by Pizza Category**: Percentage of total sales, each 4 Categories contributes.
+
+9. **% of Sales by Pizza Size**: Percentage of total sales, each of 5 sizes Contributes.
+
+10. **Top 5 Best Sellers by Revenue, Total Quantity & Total Orders**: Top 5 Best selling Pizza by Revenue, Total Quantity & Total Orders.
+
+11. **5 lowest Sellers by Revenue, Total Quantity & Total Orders**: 5 lowest selling Pizzas by Revenue, Total Quantity & Total Orders.
+
+12. **Number of Customers each day & Busiest hours**: Number of customer served each day and busy operating hours.
+
+13. **Average Orders & Pizzaper Day**:Average Orders placed per Day & Pizzas sold per day.
+
+## **Tech Stack**
 
 Python – Data ingestion and table merging
 
@@ -29,7 +56,7 @@ Power BI – Interactive dashboard visualization
 
 Git & GitHub – Version control and project management
 
-## **🔄 Project Workflow**
+## **Project Workflow**
 
 Raw CSV files were loaded using Python.
 
@@ -41,27 +68,7 @@ SQL queries were written to calculate KPIs and business metrics.
 
 Results were visualized in Power BI dashboard.
 
-## **📊 Key Business Insights**
-
-The analysis includes:
-
-✅ Total Revenue
-
-✅ Total Orders
-
-✅ Average Order Value
-
-✅ Top Selling Pizzas
-
-✅ Revenue by Category
-
-✅ Monthly Sales Trend
-
-✅ Peak Order Hours
-
-✅ Best & Worst Performing Products
-
-## **🗄️ SQL Analysis Examples**
+## **SQL Analysis Examples**
 
 Some of the SQL logic includes:
 
@@ -74,7 +81,7 @@ Date extraction for monthly trend analysis
 JOIN operations across multiple tables
 
 Ranking top-selling products
-## **📈 Power BI Dashboard**
+## **Power BI Dashboard**
 
 The dashboard includes:
 
@@ -93,7 +100,7 @@ Order Distribution by Time
 ## **📂 Project Structure**
 ![image](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/306c88e0842ed6fb24a6431123c9ef4044db3b97/Screenshot/Screenshot%202026-03-02%20235127.png)
 
-## **🚀 How To Run This Project**
+## **How To Run This Project**
 
 Clone repository
 
@@ -106,7 +113,7 @@ Run Python ingestion scripts
 Execute SQL queries
 
 Open Power BI file for dashboard
-## **🎯 Project Objective**
+## **Project Objective**
 
 This project demonstrates:
 
@@ -117,6 +124,7 @@ SQL-based business problem solving
 Dashboard development for decision making
 
 Real-world data analytics workflow
+
 
 
 
