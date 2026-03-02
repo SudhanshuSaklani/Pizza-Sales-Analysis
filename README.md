@@ -85,7 +85,7 @@ Sales Trend Line Chart
 Category-wise Revenue Breakdown
 
 Top 5 / Bottom 5 Products
-![image alt]()
+![image alt](https://github.com/SudhanshuSaklani/Pizza-Sales-Analysis/blob/60493b68590a0f2137ece2fbebde5d5c4f611a23/Screenshot/three.png)
 
 Order Distribution by Time
 ![image alt]()
@@ -117,4 +117,5 @@ SQL-based business problem solving
 Dashboard development for decision making
 
 Real-world data analytics workflow
+
 
